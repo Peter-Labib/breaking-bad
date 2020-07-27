@@ -1,0 +1,9 @@
+.Header {
+    margin: 0 auto;
+    height: 138px;
+    padding: 2rem 0;
+}
+
+.Header__logo {
+    height: 100%;
+}
